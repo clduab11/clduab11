@@ -1,4 +1,4 @@
-👋 Hi, I'm @clduab11.  Navigating the wild west of AI/ML, one prompt at a time.  (Currently accepting applications for the role of "Experienced Guide.")
+👋 Hi, I'm @clduab11, the CEO and founder of Parallax Analytics.  Navigating the wild west of AI/ML, one prompt at a time.  (Currently accepting applications for the role of "Experienced Guide/Mentor...hahahaha, kidding, _sort of_.")
 
 🚀  Passionate about all things AI: development, machine learning, implementation, multimodal/RAG... you name it, I'm probably Googling it right now (sort of...Google feels very old-school, suddely!).
 
