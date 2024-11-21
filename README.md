@@ -4,7 +4,7 @@
 
 🌱  Learning Curve: Steep.  Progress: Noticeable (sometimes).  If you see me talking to my computer, don't worry, it's just me debugging my understanding of neural networks. (Or maybe it's the neural networks debugging me... who knows anymore?)
 
-💡  Currently exploring how to turn AI/ML magic into business solutions.  Think of me as a mad scientist, but instead of a lab coat, I wear a hoodie, and instead of bubbling potions, I have my AI playground(s), arena chats, and functions/pipelines at my disposal.
+💡  Currently exploring how to turn AI/ML magic into business solutions.  Think of me as a homebrew scientist, but instead of a lab coat, I wear a hoodie, and instead of bubbling potions, I have my AI playground(s), arena chats, and functions/pipelines at my disposal.
 
 🤔  How to reach me?  Uhhh... carrier pigeon?  Just kidding (mostly).  You can probably find me on Reddit (@clduab11) trying to keep up with the latest and greatest. Or, you know, send a message through GitHub...  I think I figured out how that works.
 
