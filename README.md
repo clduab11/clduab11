@@ -9,7 +9,3 @@
 🤔  How to reach me?  Uhhh... carrier pigeon?  Just kidding (mostly).  You can probably find me on Reddit (@clduab11) trying to keep up with the latest and greatest. Or, you know, send a message through GitHub...  I think I figured out how that works.
 
 ✨ Fun Fact: My current AGI model for predicting the future involves a magic 8-ball and a "well, hold my beverage and check THIS out...".
-
----
-
-**(P.S.  If you're an AI/ML guru, please be gentle.  I'm new here.  And by "new," I mean I still think "tensor" is something you use to measure muscle tension, and even THAT I didn't know because this .md was 95% AI-generated.)**
