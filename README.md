@@ -13,12 +13,12 @@ After a full career pivot, I now develop bleeding-edge AI systems for legal, bus
 
 ## 🔍 Things I Actually Do
 
-- 🧠 Build AI-native apps like **The Patentizer** — a platform that fuses diffusion model math with USPTO patent data, visualizes uncertainty in 3D, and lets users chat with legal knowledge via Perplexity Sonar
-- 🧱 Architect full-stack deployments (FastAPI + React/Next.js + Kubernetes + WebSockets + SSE)
-- 🤖 Experiment with AGI-ish behaviors via multi-agent coordination and swarm logic
-- 🛠️ Develop toolchains to automate client workflows (Clio, Zapier, GoHighLevel, Supabase, OpenAI APIs)
-- 🧪 Prompt engineer across Anthropic, OpenAI, Mistral, and Perplexity, with prompt chains longer than some law briefs
-- 📈 Hack on legal tech, business intelligence, and AI forensics with intent to *deploy*, not just tinker
+- Build AI-native apps like **The Patentizer** — a platform that fuses diffusion model math with USPTO patent data, visualizes uncertainty in 3D, and lets users chat with legal knowledge via Perplexity Sonar 🧠
+- Architect full-stack deployments (FastAPI + React/Next.js + Kubernetes + WebSockets + SSE) 🧱
+- Experiment with AGI-ish behaviors via multi-agent coordination and swarm logic 🤖
+- Develop toolchains to automate client workflows (Clio, Zapier, GoHighLevel, Supabase, OpenAI APIs) 🛠️
+- Prompt engineer across Anthropic, OpenAI, Mistral, and Perplexity, with prompt chains longer than some law briefs 🧪
+- Hack on legal tech, business intelligence, and AI forensics with intent to *deploy*, not just tinker 📈
 
 ---
 
@@ -40,7 +40,7 @@ After a full career pivot, I now develop bleeding-edge AI systems for legal, bus
 
 ---
 
-## 🛠️ Tech I Speak Daily
+## 🛠️ Tech I (Try to, but usually fail to successfully...) Speak Daily
 
 | Area | Stack |
 |------|-------|
