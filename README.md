@@ -55,8 +55,8 @@ After a full career pivot, I now develop bleeding-edge AI systems for legal, bus
 
 ## 🤝 Connect
 
-- 🐦 Reddit: [@clduab11](https://www.reddit.com/u/clduab11)
-- 🌐 Website: [Parallax Analytics](https://your-site-here.com)
+- 🐦 Reddit (for a more personal side): [@clduab11](https://www.reddit.com/u/clduab11)
+- 🌐 Website (for more of "the business"): [Parallax Analytics]([https://your-site-here.com](https://www.linkedin.com/company/parallax-analytics/))
 - 📨 DM me if you're trying to:
   - Collaborate on all sorts of genAI ideas
   - Quantum ML/AI!!!!
